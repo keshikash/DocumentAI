@@ -49,7 +49,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, contact **your.email@example.com** or open an issue in the repository.
+For any inquiries, contact **b22ee040@iitj.ac.in** or open an issue in the repository.
 
 ---
 
